@@ -26,7 +26,7 @@ public static void BubbleSort( int [ ] num )
                            temp = num[ j ];                //swap elements
                            num[ j ] = num[ j+1 ];
                            num[ j+1 ] = temp;
-                          flag = true;              //shows a swap occurred 
+                           flag = true;              //shows a swap occurred 
                   }
             }
       }
